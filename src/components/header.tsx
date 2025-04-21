@@ -42,8 +42,8 @@ export const Header: React.FC<React.ComponentProps<'header'>> = ({
         {/* <div className="md:hidden">
           <Menu />
         </div> */}
-        <div className="flex items-center gap-6 max-md:hidden">
-          <nav className="flex gap-8 relative after:content-[''] after:absolute after:top-1/2 after:-translate-y-1/2 after:-right-4 after:w-px after:h-5 after:bg-white/85">
+        <div className="flex items-center gap-6">
+          <nav className="max-md:hidden flex gap-8 relative after:content-[''] after:absolute after:top-1/2 after:-translate-y-1/2 after:-right-4 after:w-px after:h-5 after:bg-white/85">
             {navigationItems.map((item, index) => {
               return (
                 <Link
