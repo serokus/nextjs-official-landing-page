@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "Nav": {
+      "Home": "Home",
+      "Economics": "Economics",
+      "Staking": "Staking",
+      "Community": "Community",
+      "About": "About",
+      "Buy": "BUY AW-RWA"
+    },
+    "Locale": {
+      "en": "English",
+      "zh": "Chinese"
+    },
+    "Hero": {
+      "text1": "THE CLOWN LAUGHS AT WEALTH",
+      "text2": "Tokenize The World",
+      "text3": "AW-RWA Network is a Layer 1 blockchain transforming real-world assets into tomorrow's digital futur"
+    },
+    "Buttons": {
+      "btn1": "Buy AW-RWA",
+      "btn2": "Start Staking"
+    },
+    "Sections": {
+      "Section1": {
+        "title": "Secure,Efficient,Designed to Scale",
+        "heading": "Secure,Efficient,Designed to Scale",
+        "items": {
+          "item1": "1. 8,000 TXNs/Second",
+          "item2": "2. Dynamic annual Percentage Yield 3-10 %",
+          "item3": "3. $ 0.01 Fee",
+          "item4": "4. 50% Burned(Treasury:25% Validators:25%)",
+          "item5": "5. Transactions confirmed in seconds 10sec",
+          "item6": "6. Lower Carbon Emission 99%"
+        }
+      },
+      "Section2": {
+        "item1": {
+          "title": "Real Estate",
+          "description": "Transform illiquid properties into tradable digital assets through DeFi-powered lending and fractionalized ownership on Mavryk's secure network"
+        },
+        "item2": {
+          "title": "The Asset Revolution"
+        },
+        "item3": {
+          "title": "Insurance-Linked Securities",
+          "description": "Bridge the gap between traditional insurance and DeFi by utilizing Mavryk's purpose-built infrastructure for transparent risk transfer"
+        },
+        "item4": {
+          "title": "Debt",
+          "description": "Streamline debt markets, enabling efficient securitization and seamless debt trading"
+        },
+        "item5": {
+          "title": "Bonds",
+          "description": "Bridge traditional bonds to DeFi -- create a new era of fixed income where smart contracts automate yields and compliance"
+        },
+        "item6": {
+          "title": "Bitcoin Miners",
+          "description": "Democratize mining operations through fractional ownership, enabling DeFi integrations and on-chain automated ₿itcoin rewards distribution"
+        },
+        "item7": {
+          "title": "Equity, Commodities, & More",
+          "description": "Bring diverse RWAs on-chain - from company shares to precious metals, all on one platform with round-the-clock trading and instant settlement"
+        }
+      },
+      "Section3": {
+        "heading": "Unlocking RWAs",
+        "Section1": {
+          "title": "Secondary Markets",
+          "description": "Creating efficient secondary trading for tokenized RWAs with seamless access to global markets. Our network of traditional equity and Web3 partners enables enhanced liquidity and transparency for seamless asset trading."
+        },
+        "Section2": {
+          "title": "DeFi",
+          "description": "A robust decentralized finance ecosystem operating without intermediaries. Users can explore instant lending, liquidity mining, yield farming, and other DeFi opportunities, transforming how they interact with capital markets."
+        }
+      },
+      "Section5": {
+        "title": "Discover Nexus"
+      },
+      "ThinkDifferent": {
+        "heading1": "THINK DIFFERENT",
+        "heading2": "BE AW-RWA",
+        "text1": "Become a part of our community"
+      },
+      "DiscoverNexus": {
+        "heading": "Discover Nexus",
+        "items": {
+          "item1": "Protocol Treasury",
+          "item2": "Domains",
+          "item3": "Liquidity Mining"
+        }
+      }
+    },
+    "Footer": {
+      "Section1": {
+        "dt1": "Links",
+        "dt2": "Social",
+        "dt3": "References",
+        "dt4": "Laws",
+        "dd1": {
+          "text1": "Telegram Rebots",
+          "text2": "Scanning Channels",
+          "text3": "Buy $TIMEBOT",
+          "text4": "Revenue Sharing"
+        },
+        "dd2": {
+          "text1": "Twitter",
+          "text2": "Telegram Group",
+          "text3": "Contact Us"
+        },
+        "dd3": {
+          "text1": "Documents",
+          "text2": "Whitepaper"
+        },
+        "dd4": {
+          "text1": "Terms & Conditions"
+        }
+      },
+      "Section2": {
+        "left": "By accessing our services, you accept our Terms of Service and Privacy Policy. Although our tools are provided free of charge, please note that each transaction incurs a fee of 0.5% - 1%.",
+        "right": "Copyright © 2025 AW-RWA. All Rights Reserved."
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>英文</title>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+    </defs>
+    <g id="官网" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-0首页-重新设计" transform="translate(-1275.000000, -116.000000)">
+            <g id="编组-22" transform="translate(1259.000000, 23.000000)">
+                <g id="英文" transform="translate(16.000000, 93.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="蒙版" fill="#D8D8D8" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(-4.000000, 0.000000)">
+                            <polygon id="路径" fill="#012169" points="0 0 32 0 32 24 0 24"></polygon>
+                            <polygon id="路径" fill="#FFFFFF" points="3.75 0 15.95 9.05 28.1 0 32 0 32 3.1 20 12.05 32 20.95 32 24 28 24 16 15.05 4.05 24 0 24 0 21 11.95 12.1 0 3.2 0 0"></polygon>
+                            <path d="M21.2,14.05 L32,22 L32,24 L18.45,14.05 L21.2,14.05 Z M12,15.05 L12.3,16.8 L2.7,24 L0,24 L12,15.05 Z M32,0 L32,0.15 L19.55,9.55 L19.65,7.35 L29.5,0 L32,0 Z M0,0 L11.95,8.8 L8.95,8.8 L0,2.1 L0,0 Z" id="形状" fill="#C8102E"></path>
+                            <path d="M12.05,0 L12.05,24 L20.05,24 L20.05,0 L12.05,0 Z M0,8 L0,16 L32,16 L32,8 L0,8 Z" id="形状" fill="#FFFFFF"></path>
+                            <path d="M0,9.65 L0,14.45 L32,14.45 L32,9.65 L0,9.65 Z M13.65,0 L13.65,24 L18.45,24 L18.45,0 L13.65,0 Z" id="形状" fill="#C8102E"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "title": "你好，世界！",
+    "Nav": {
+      "Home": "主页",
+      "Economics": "代币经济学",
+      "Staking": "质押",
+      "Community": "社区",
+      "About": "关于我们",
+      "Buy": "购买 AW-RWA"
+    },
+    "Locale": {
+      "en": "English",
+      "zh": "简体中文"
+    },
+    "Buttons": {
+      "btn1": "购买 AW-RWA",
+      "btn2": "开始质押"
+    },
+    "Hero": {
+      "text1": "THE CLOWN LAUGHS AT WEALTH",
+      "text2": "让世界代币化",
+      "text3": "AW-RWA 网络是第一层区块链，可将现实世界的资产转化为未来的数字资产"
+    },
+    "Sections": {
+      "Section1": {
+        "title": "安全、高效、可扩展",
+        "heading": "安全、高效、可扩展",
+        "items": {
+          "item1": "1、8,000 TXN/秒",
+          "item2": "2、动态年收益率 3-10 %",
+          "item3": "3、0.01 美元手续费",
+          "item4": "4、50% 销毁（金库：25% 验证者：25%）",
+          "item5": "5、交易秒 10 秒确认",
+          "item6": "6、碳排放量降低 99%"
+        }
+      },
+      "Section2": {
+        "item1": {
+          "title": "房地产",
+          "description": "通过 DeFi 驱动的借贷和 Mavryk 安全网络上的碎片化所有权，将非流动性资产转化为可交易的数字资产"
+        },
+        "item2": {
+          "title": "资产革命"
+        },
+        "item3": {
+          "title": "保险相连证券",
+          "description": "利用 Mavryk 专门构建的基础设施进行透明的风险转移，弥合传统保险和 DeFi 之间的差距"
+        },
+        "item4": {
+          "title": "债务",
+          "description": "简化债务市场，实现高效的证券化和无缝的债务交易"
+        },
+        "item5": {
+          "title": "债券",
+          "description": "将传统债券与 DeFi 连接起来 -- 创造一个固定收益的新时代，智能合约可以自动实现收益和合规性"
+        },
+        "item6": {
+          "title": "比特币矿工",
+          "description": "通过部分所有权实现挖矿业务民主化，实现 DeFi 集成和链上自动化 ₿itcoin 奖励分配"
+        },
+        "item7": {
+          "title": "股票、商品等",
+          "description": "将各种 RWA 带到链上 - 从公司股票到贵金属，都在一个平台上，提供全天候交易和即时结算"
+        }
+      },
+      "Section3": {
+        "heading": "解锁 RWA",
+        "Section1": {
+          "title": "二级市场",
+          "description": "为代币化 RWA 创建高效的二级交易，无缝进入全球市场。我们的传统股票和 Web3 合作伙伴网络可以提高流动性和透明度，实现无缝资产交易。"
+        },
+        "Section2": {
+          "title": "去中心化金融",
+          "description": "一个强大的去中心化金融生态系统，无需中介即可运行。用户可以探索即时借贷、流动性挖矿、流动性挖矿和其他 DeFi 机会，改变他们与资本市场的互动方式。"
+        }
+      },
+      "Section5": {
+        "title": "探索 Nexus"
+      },
+      "ThinkDifferent": {
+        "heading1": "与众不同",
+        "heading2": "成为 AW-RWA",
+        "text1": "成为我们社区的一员"
+      },
+      "DiscoverNexus": {
+        "heading": "探索 Nexus",
+        "items": {
+          "item1": "协议金库",
+          "item2": "域",
+          "item3": "流动性挖矿"
+        }
+      }
+    },
+    "Footer": {
+      "Section1": {
+        "dt1": "链接",
+        "dt2": "社交",
+        "dt3": "资源",
+        "dt4": "条款",
+        "dd1": {
+          "text1": "电报机器人",
+          "text2": "扫描通道",
+          "text3": "购买$TIMEBOT",
+          "text4": "收入分成"
+        },
+        "dd2": {
+          "text1": "推特",
+          "text2": "电报群",
+          "text3": "联系我们"
+        },
+        "dd3": {
+          "text1": "文档",
+          "text2": "白皮书"
+        },
+        "dd4": {
+          "text1": "条款及条件"
+        }
+      },
+      "Section2": {
+        "left": "通过访问我们的服务，您接受我们的服务条款和隐私政策。虽然我们的工具是免费提供的，但请注意，每笔交易都会产生 0.5% - 1% 的费用。",
+        "right": "@2023 AW-RWA 版权所有"
+      }
+    }
+  }
+}

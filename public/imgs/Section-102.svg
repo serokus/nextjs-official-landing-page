@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="601px" height="393px" viewBox="0 0 601 393" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 8</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="600" height="393" rx="32"></rect>
+        <linearGradient x1="0%" y1="19.0751079%" x2="100%" y2="80.9248921%" id="linearGradient-3">
+            <stop stop-color="#25ABDD" offset="0%"></stop>
+            <stop stop-color="#63EEE1" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-15.2%" y="-19.3%" width="130.4%" height="138.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="官网" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-0首页-重新设计" transform="translate(-420.000000, -935.000000)">
+            <g id="编组-8" transform="translate(420.000000, 935.000000)">
+                <rect id="矩形" fill="#FFFFFF" opacity="0.100000001" x="0" y="0" width="600" height="392.971246" rx="32"></rect>
+                <g id="矩形" opacity="0.300000012" transform="translate(1.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="蒙版" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+                    <polygon fill="url(#linearGradient-3)" filter="url(#filter-4)" mask="url(#mask-2)" transform="translate(316.859594, 196.584314) rotate(-31.000000) translate(-316.859594, -196.584314) " points="-177.140406 -191.920177 158.491235 -147.80742 810.859594 585.088805 475.227954 540.976049"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

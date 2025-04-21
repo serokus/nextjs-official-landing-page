@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>中文</title>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+    </defs>
+    <g id="官网" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-0首页-重新设计" transform="translate(-1275.000000, -67.000000)">
+            <g id="编组-22" transform="translate(1259.000000, 23.000000)">
+                <g id="中文" transform="translate(16.000000, 44.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="蒙版" fill="#D8D8D8" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)" fill-rule="nonzero">
+                        <polygon id="路径" fill="#EE1C25" points="0 0 32 0 32 24 0 24"></polygon>
+                        <g id="a-link" transform="translate(2.400045, 2.400000)" fill="#FFFF00">
+                            <polygon id="a" points="1.439982 6.48 3.599955 0 5.759928 6.48 0 2.52 7.19991 2.52"></polygon>
+                        </g>
+                        <g id="a-link" transform="translate(11.912066, 2.461679) rotate(-120.929858) translate(-11.912066, -2.461679) translate(10.712070, 1.381689)" fill="#FFFF00">
+                            <polygon id="a" points="0.47999842 2.15997975 1.19999605 0 1.91999368 2.15997975 0 0.839992127 2.3999921 0.839992127"></polygon>
+                        </g>
+                        <g id="a-link" transform="translate(14.281202, 4.806929) rotate(-98.109893) translate(-14.281202, -4.806929) translate(13.081202, 3.726942)" fill="#FFFF00">
+                            <polygon id="a" points="0.479999924 2.15997356 1.19999981 0 1.9199997 2.15997356 0 0.839989719 2.39999962 0.839989719"></polygon>
+                        </g>
+                        <g id="a-link" transform="translate(14.284627, 8.367004) rotate(-74.040178) translate(-14.284627, -8.367004) translate(13.084628, 7.287017)" fill="#FFFF00">
+                            <polygon id="a" points="0.479999638 2.15997464 1.19999909 0 1.91999855 2.15997464 0 0.839990137 2.39999819 0.839990137"></polygon>
+                        </g>
+                        <g id="a-link" transform="translate(11.906323, 10.725004) rotate(-51.320071) translate(-11.906323, -10.725004) translate(10.706329, 9.645012)" fill="#FFFF00">
+                            <polygon id="a" points="0.479997743 2.15998367 1.19999436 0 1.91999097 2.15998367 0 0.839993649 2.39998872 0.839993649"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
