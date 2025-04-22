@@ -1,12 +1,12 @@
+import Image from 'next/image'
 import { useTranslations } from 'next-intl'
 import { Heading } from './heading'
 import { MaxWidthWrapper } from './max-width-wrapper'
-import Image from 'next/image'
 
 export const TheAssetRevolution: React.FC = () => {
   const t = useTranslations('HomePage.Sections.Section2')
   return (
-    <section className="my-16">
+    <section id="economics" className="my-16">
       <MaxWidthWrapper>
         <div className="grid grid-cols-4 max-md:grid-cols-2 gap-5 [&>div]:md:min-h-[393px]">
           <div className="relative p-8 rounded-3xl overflow-hidden">

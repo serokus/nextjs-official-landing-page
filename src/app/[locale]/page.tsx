@@ -7,7 +7,7 @@ import { ThinkDifferent } from '@/components/think-different'
 
 export default function Home() {
   return (
-    <main className="relative w-full min-h-[calc(100svh-var(--header-height))]">
+    <main className="relative w-full min-h-[calc(100dvh-var(--header-height))]">
       <Hero />
       <TheAssetRevolution />
       <SecureEfficientDesignedScale />

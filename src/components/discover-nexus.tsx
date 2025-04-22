@@ -7,7 +7,7 @@ import Image from 'next/image'
 export const DiscoverNexus: React.FC = () => {
   const t = useTranslations('HomePage.Sections.DiscoverNexus')
   return (
-    <section className="mb-16">
+    <section id="about" className="mb-16">
       <MaxWidthWrapper>
         <div className="bg-muted/50 rounded-3xl overflow-hidden py-16 max-md:pt-12 px-24 max-md:px-4">
           <Heading className="text-center">{t('heading')}</Heading>

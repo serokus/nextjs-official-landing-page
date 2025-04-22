@@ -6,7 +6,7 @@ import Image from 'next/image'
 export const SecureEfficientDesignedScale: React.FC = () => {
   const t = useTranslations('HomePage.Sections.Section1')
   return (
-    <section>
+    <section id="staking">
       <MaxWidthWrapper>
         <div className="bg-muted/50 pt-16 max-md:pt-12 pb-20 rounded-3xl">
           <Heading className="text-center">{t('heading')}</Heading>
